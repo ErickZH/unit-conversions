@@ -1,7 +1,7 @@
 # Perform unit conversions in PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/erickzh/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/erickzh/unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/erickzh/unit-conversions/run-tests?label=tests)](https://github.com/erickzh/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ErickZH/unit-conversions/Tests?label=Tests)
 [![Total Downloads](https://img.shields.io/packagist/dt/erickzh/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/erickzh/unit-conversions)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
