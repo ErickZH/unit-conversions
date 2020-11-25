@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "erickzh/unit-conversions",
+    "description": "Perform unit conversions in PHP",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "erickzh",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/erickzh/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "ErickZH",
+            "email": "zaraterick@outlook.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Erickzh\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Erickzh\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
